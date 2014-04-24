@@ -2,7 +2,7 @@ public class Cat {
 private String nama;
 
 
-public static void main[] args{
+public static void main String[] args{
 system.out.println("hello stranger... :)")
 }
 }
