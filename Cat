@@ -1,0 +1,8 @@
+public class Cat {
+private String nama;
+
+
+public static void main[] args{
+system.out.println("hello stranger... :)")
+}
+}
